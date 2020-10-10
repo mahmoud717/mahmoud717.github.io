@@ -8286,10 +8286,21 @@ html {
 }
 
 @media (max-width: 1200px) {
+  .card-imagee{
+    height: 300px !important;
+  }
   .presentation .section-images .image img {
     width: 100%;
   }
 }
+@media (min-width: 1200px) {
+  .card-imagee{
+    height: 350px !important;
+  }
+  
+  
+}
+
 
 @media screen and (max-width: 374px) {
   .footer.footer-big .copyright .pull-left,
