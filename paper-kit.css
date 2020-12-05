@@ -8290,7 +8290,7 @@ html {
 }
 
 @media (max-width: 1200px) {
-  .card-imagee{
+  .card-image{
     height: 300px !important;
   }
   .presentation .section-images .image img {
@@ -8298,7 +8298,7 @@ html {
   }
 }
 @media (min-width: 1200px) {
-  .card-imagee{
+  .card-image{
     height: 350px !important;
   }
   
