@@ -31,6 +31,11 @@
 img{
   object-fit: cover !important;
 }
+
+.skills-section {
+  z-index: 1000;
+}
+
 .ul {
   list-style-type: none;
   padding: 40px;
