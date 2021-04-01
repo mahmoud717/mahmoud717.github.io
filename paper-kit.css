@@ -35,6 +35,12 @@ img{
 .skills-section {
   z-index: 1000;
 }
+@media (min-width: 1200px){
+  .main-project-image {
+  width: 45vw;
+}
+}
+
 
 .ul {
   list-style-type: none;
